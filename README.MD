@@ -2,4 +2,4 @@
 
 ## Repository for learning Data Structures and Algorithms
 
-Problems and solutions are from Striver's Videos
+Problems and solutions are from Striver's Videos using C++
